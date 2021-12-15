@@ -1,0 +1,6 @@
+m ù temperature Alarmantes 0 45
+temperature N/A 0 Alarmantes 12 25
+temperature N/A 0 Alarmantes 12 25
+12589 momo temperature N/A 0 45
+1234 papii Humidite N/A 10 90
+1234 papii Humidite N/A 10 90
